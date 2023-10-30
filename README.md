@@ -1,6 +1,6 @@
 # IBM-IOT-PROJECT
 
-// Smart Water Fountain
+// Smart Water Fountains
 
 // For phase 3
 
